@@ -16,3 +16,6 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 * 7kyu, 8kyu - Beginner
 
 ---
+
+## 6kyu
+__<span style="font-family:Papyrus; font-size:1.3em; color:#9f3531"/>[Vasya Clerk](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) </span>__
