@@ -23,6 +23,6 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">7kyu</span>**
 
-- [__<span style="color:#f8433f">Sum of two lowest positive integers</span>__](https://www.codewars.com/kata/55908aad6620c066bc00002a) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/exesAndOhs.py)
+- [__<span style="color:#f8433f">Exes and Ohs</span>__](https://www.codewars.com/kata/55908aad6620c066bc00002a) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/exesAndOhs.py)
 
 - [__<span style="color:#f8433f">Sum of two lowest positive integers</span>__](https://www.codewars.com/kata/558fc85d8fd1938afb000014/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/sum_lowest_int.py)
