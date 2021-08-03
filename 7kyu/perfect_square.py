@@ -14,5 +14,8 @@ findNextSquare(114) --> returns -1 since 114 is not a perfect square
 
 
 def find_next_square(sq):
-    # Return the next square if sq is a square, -1 otherwise
-    return -1
+    x = sq ** 0.5
+    return -1 if x % 1 else (x + 1) ** 2
+
+
+print(find_next_square(144))
