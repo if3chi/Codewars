@@ -23,6 +23,8 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 - [__<span style="color:#f8433f">Vasya Clerk</span>__](https://www.codewars.com/kata/555615a77ebc7c2c8a0000b8) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/6kyu/vasya_clerk.py)
 
+- [__<span style="color:#f8433f">Who Likes It</span>__](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/6kyu/who_likes_it.py)
+
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">7kyu</span>**
 
 - [__<span style="color:#f8433f">Exes and Ohs</span>__](https://www.codewars.com/kata/55908aad6620c066bc00002a) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/exesAndOhs.py)
