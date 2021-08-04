@@ -32,3 +32,5 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 - [__<span style="color:#f8433f">Find the next perfect square!</span>__](https://www.codewars.com/kata/56269eb78ad2e4ced1000013) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/perfect_square.py)
 
 - [__<span style="color:#f8433f">Sum of two lowest positive integers</span>__](https://www.codewars.com/kata/558fc85d8fd1938afb000014/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/sum_lowest_int.py)
+
+- [__<span style="color:#f8433f">Two To One</span>__](https://www.codewars.com/kata/5656b6906de340bd1b0000ac/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/master/7kyu/two_to_one.py)
