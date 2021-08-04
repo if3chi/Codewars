@@ -14,5 +14,7 @@ longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 
 def longest(a1, a2):
-    # your code
-    pass
+    return "".join(sorted(set(a1) | set(a2)))
+
+
+print(longest("xyaabbbccccdefww", "xxxxyyyyabklmopq"))
