@@ -12,3 +12,23 @@ Examples
 "4of Fo1r pe6ople g3ood th5e the2"  -->  "Fo1r the2 g3ood 4of th5e pe6ople"
 ""  -->  ""
 """
+
+
+def order(sentence):
+    if not sentence:
+        return ""
+    result = []  # the list that will eventually become our setence
+
+    words = sentence.split()  # the original sentence turned into a list
+
+    for i in range(1, 10):
+        for word in words:
+            if str(i) in word:
+                result.append(
+                    word
+                )  # adds them in numerical order since it cycles through i first
+
+    return " ".join(result)
+
+
+print(order("4of Fo1r pe6ople g3ood th5e the2"))
