@@ -20,4 +20,13 @@ Attention: If the number has leading zeros the amount of digits should be consid
 
 
 def increment_string(strng):
-    return strng
+    head = strng.rstrip("0123456789")
+    tail = strng[len(head) :]
+    if tail == "":
+        return strng + "1"
+    return head + str(int(tail) + 1).zfill(len(tail))
+
+
+print(increment_string("foo0042"))
+print(increment_string("foo100"))
+print(increment_string("foo099"))
