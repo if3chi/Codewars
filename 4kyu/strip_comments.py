@@ -22,4 +22,10 @@ result = solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", 
 
 
 def solution(string, markers):
-    pass
+    words = string.split("\n")
+    for s in markers:
+        words = [w.split(s)[0].rstrip() for w in words]
+    return "\n".join(words)
+
+
+print(solution("apples, pears # and bananas\ngrapes\nbananas !apples", ["#", "!"]))
