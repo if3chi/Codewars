@@ -8,5 +8,10 @@ contains an uppercase letter
 contains a number
 Valid passwords will only be alphanumeric characters.
 """
+from re import search
 
-regex = ""
+regex = "^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)[^\W_]{6,}$"
+
+
+print(bool(search(regex, "jfkdfj3j")))  # False
+print(bool(search(regex, "djI38D55")))  # True
