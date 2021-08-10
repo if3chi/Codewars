@@ -19,7 +19,7 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">5kyu</span>**
 
-- [__<span style="color:#f8433f">Pete, the baker</span>__](https://www.codewars.com/kata/526571aae218b8ee490006f4) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/baker_pete.py)
+- [__<span style="color:#f8433f">Pete, the baker</span>__](https://www.codewars.com/kata/525c65e51bf619685c000059) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/baker_pete.py)
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">6kyu</span>**
 
