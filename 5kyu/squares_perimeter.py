@@ -24,4 +24,11 @@ perimeter(7)  should return 216
 
 
 def perimeter(n):
-    pass
+    sqrs = [0, 1]
+    for i in range(2, n + 2):
+        sqrs.append(sqrs[i - 1] + sqrs[i - 2])
+    return sum(sqrs) * 4
+
+
+print(perimeter(5))
+print(perimeter(7))
