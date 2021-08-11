@@ -25,6 +25,8 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 - [__<span style="color:#f8433f">String incrementer</span>__](https://www.codewars.com/kata/54a91a4883a7de5d7800009c/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/string_incrementer.py)
 
+- [__<span style="color:#f8433f">Perimeter of squares in a rectangle</span>__](https://www.codewars.com/kata/559a28007caad2ac4e000083/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/squares_perimeter.py)
+
 - [__<span style="color:#f8433f">Pete, the baker</span>__](https://www.codewars.com/kata/525c65e51bf619685c000059) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/baker_pete.py)
 
 - [__<span style="color:#f8433f">Regex Password Validation</span>__](https://www.codewars.com/kata/52e1476c8147a7547a000811/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/regex_passwd_validation.py)
