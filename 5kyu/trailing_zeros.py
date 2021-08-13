@@ -21,7 +21,8 @@ find the number of zeros.
 
 
 def zeros(n):
-    return 0
+    x = n // 5
+    return x + zeros(x) if x else 0
 
 
 print(zeros(6))
