@@ -17,5 +17,17 @@ rgb(148, 0, 211) # returns 9400D3
 """
 
 
-def rgb(n):
-    pass
+def limit(num):
+    if num < 0:
+        return 0
+    if num > 255:
+        return 255
+    return num
+
+
+def rgb(r, g, b):
+    return ("{:02X}" * 3).format(limit(r), limit(g), limit(b))
+
+
+print(rgb(148, 0, 211))
+print(rgb(255, 255, 255))
