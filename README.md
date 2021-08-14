@@ -25,6 +25,7 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">5kyu</span>**
 
+
 - [__<span style="color:#f8433f">Number of trailing zeros of N!</span>__](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/trailing_zeros.py)
 
 - [__<span style="color:#f8433f">RGB To Hex Conversion</span>__](https://www.codewars.com/kata/513e08acc600c94f01000001/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/rgb_to_hex.py)
@@ -36,6 +37,8 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 - [__<span style="color:#f8433f">Pete, the baker</span>__](https://www.codewars.com/kata/525c65e51bf619685c000059) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/baker_pete.py)
 
 - [__<span style="color:#f8433f">Regex Password Validation</span>__](https://www.codewars.com/kata/52e1476c8147a7547a000811/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/regex_passwd_validation.py)
+
+- [__<span style="color:#f8433f">Where my anagrams at?</span>__](https://www.codewars.com/kata/523a86aa4230ebb5420001e1/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/anagrams.py)
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">6kyu</span>**
 
