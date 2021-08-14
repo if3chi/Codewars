@@ -26,4 +26,10 @@ For Go: Empty string slice is expected when there are no anagrams found.
 
 
 def anagrams(word, words):
-    pass
+
+    return [w for w in words if sorted(word) == sorted(w)]
+
+
+print(anagrams("laser", ["lazing", "lazy", "lacer"]))
+print(anagrams("abba", ["aabb", "abcd", "bbaa", "dada"]))
+print(anagrams("racer", ["crazer", "carer", "racar", "caers", "racer"]))
