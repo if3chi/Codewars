@@ -28,6 +28,8 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">5kyu</span>**
 
 
+- [__<span style="color:#f8433f">Did I Finish my Sudoku?</span>__](https://www.codewars.com/kata/53db96041f1a7d32dc0004d2/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/finish_sudoku.py)
+
 - [__<span style="color:#f8433f">Number of trailing zeros of N!</span>__](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/trailing_zeros.py)
 
 - [__<span style="color:#f8433f">RGB To Hex Conversion</span>__](https://www.codewars.com/kata/513e08acc600c94f01000001/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/5kyu/rgb_to_hex.py)
