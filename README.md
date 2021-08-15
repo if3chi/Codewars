@@ -19,7 +19,7 @@ Kyu digit determines kata's difficulty level as well as user's rank on a website
 
 **<span style="color:#d3b566; font-family:Papyrus; font-size:1.5em">4kyu</span>**
 
-- [__<span style="color:#f8433f">Permutations</span>__](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/4kyu/permutations.py)
+- [__<span style="color:#f8433f">Permutations</span>__](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/4kyu/permutations.py)
 
 - [__<span style="color:#f8433f">Strip Comments</span>__](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/python) --> [__<span style="color:#60e21a">Solution</span>__](https://github.com/if3chi/Codewars/blob/main/4kyu/strip_comments.py)
 
